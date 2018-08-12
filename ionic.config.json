@@ -1,0 +1,8 @@
+{
+  "name": "klasspm",
+  "app_id": "9a34e961",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
